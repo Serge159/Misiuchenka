@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.exe
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.deps.json
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.runtimeconfig.json
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.runtimeconfig.dev.json
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.dll
+C:\Users\User\Desktop\ТЗ\ТЗ 3\bin\Debug\netcoreapp3.1\ТЗ 3.pdb
+C:\Users\User\Desktop\ТЗ\ТЗ 3\obj\Debug\netcoreapp3.1\ТЗ 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ТЗ\ТЗ 3\obj\Debug\netcoreapp3.1\ТЗ 3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ТЗ\ТЗ 3\obj\Debug\netcoreapp3.1\ТЗ 3.AssemblyInfo.cs
+C:\Users\User\Desktop\ТЗ\ТЗ 3\obj\Debug\netcoreapp3.1\ТЗ 3.dll
+C:\Users\User\Desktop\ТЗ\ТЗ 3\obj\Debug\netcoreapp3.1\ТЗ 3.pdb

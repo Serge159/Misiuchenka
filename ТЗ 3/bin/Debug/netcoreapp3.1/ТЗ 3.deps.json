@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ТЗ 3/1.0.0": {
+        "runtime": {
+          "ТЗ 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ТЗ 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
